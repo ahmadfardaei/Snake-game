@@ -2,7 +2,7 @@
 The famous Snake game which inside a specific environment (a cube) and has to reach the goal (apple)
 
 ## Documentation
-you can find the report in the Report file.
+you can find the report(technical presentation) in the Report file.
 
 ## Game Instruction:
 1. Click on the link below to get into the game:
